@@ -1,0 +1,2 @@
+# trashModule
+just for submodule
